@@ -5,14 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.test.pattern</groupId>
-    <artifactId>Strategy-Pattern</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>adapter-pattern</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <modules>
-        <module>Strategy-Pattern1</module>
-        <module>Strategy-Pattern2</module>
-        <module>Strategy-Pattern3</module>
+        <module>adapter-pattern1</module>
+        <module>adapter-pattern2</module>
     </modules>
 
 </project>
