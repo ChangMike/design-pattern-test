@@ -1,0 +1,13 @@
+package com.test.state.states;
+
+/**
+ * 状态接口，有四个方法，投入硬币、退回硬币、转动曲柄、发放糖果
+ * 转动曲柄方法最后会调用分配糖果方法
+ */
+public interface State {
+ 
+	public void insertQuarter();
+	public void ejectQuarter();
+	public void turnCrank();
+	public void dispense();
+}

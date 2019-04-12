@@ -5,14 +5,21 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.test.pattern</groupId>
-    <artifactId>Strategy-Pattern</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>State-Pattern</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
 
     <modules>
-        <module>Strategy-Pattern1</module>
-        <module>Strategy-Pattern2</module>
-        <module>Strategy-Pattern3</module>
+        <module>State-Pattern1</module>
+        <module>State-Pattern2</module>
+        <module>State-Pattern3</module>
     </modules>
+
 
 </project>
