@@ -5,12 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.test.pattern</groupId>
-    <artifactId>Decorator-Pattern</artifactId>
+    <artifactId>Decorator-Pattern2</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
 
-    <modules>
-        <module>Decorator-Pattern1</module>
-        <module>Decorator-Pattern2</module>
-    </modules>
+
 </project>
