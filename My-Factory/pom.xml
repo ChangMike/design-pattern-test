@@ -2,18 +2,18 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>Factory-Pattern-Parent</artifactId>
+        <groupId>com.test.pattern</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.test.pattern</groupId>
-    <artifactId>Factory-Pattern</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>My-Factory</artifactId>
     <packaging>pom</packaging>
-
     <modules>
-        <module>Simple-Factory-Pattern</module>
-        <module>Factory-Pattern2</module>
-        <module>Factory-Pattern3</module>
-        <module>My-Factory</module>
+        <module>simple-factory</module>
     </modules>
+
 
 </project>
