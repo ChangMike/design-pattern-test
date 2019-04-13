@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.test.pattern</groupId>
-    <artifactId>adapter-pattern</artifactId>
+    <artifactId>Command-Pattern</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>adapter-pattern1</module>
-        <module>adapter-pattern2</module>
+        <module>Command-Pattern1</module>
+        <module>Command-Pattern2</module>
     </modules>
 
 </project>
