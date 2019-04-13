@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
-    <file url="file://$PROJECT_DIR$/Composite-Pattern1" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Composite-Pattern2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proxy-Client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proxy-Pattern1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proxy-Pattern2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proxy-Pattern3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proxy-Pattern4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proxy-Pattern5" charset="UTF-8" />
   </component>
 </project>

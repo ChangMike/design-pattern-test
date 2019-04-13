@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Composite-Pattern1" />
-        <module name="Composite-Pattern2" />
+        <module name="Proxy-Client" />
+        <module name="Proxy-Pattern1" />
+        <module name="Proxy-Pattern2" />
+        <module name="Proxy-Pattern3" />
+        <module name="Proxy-Pattern4" />
+        <module name="Proxy-Pattern5" />
       </profile>
     </annotationProcessing>
   </component>

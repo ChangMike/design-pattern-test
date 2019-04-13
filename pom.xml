@@ -5,14 +5,17 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.test.pattern</groupId>
-    <artifactId>Composite-Pattern</artifactId>
+    <artifactId>Proxy-Pattern</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>Composite-Pattern1</module>
-        <module>Composite-Pattern2</module>
+        <module>Proxy-Pattern1</module>
+        <module>Proxy-Pattern2</module>
+        <module>Proxy-Pattern3</module>
+        <module>Proxy-Pattern4</module>
+        <module>Proxy-Pattern5</module>
+        <module>Proxy-Client</module>
     </modules>
-
 
 </project>

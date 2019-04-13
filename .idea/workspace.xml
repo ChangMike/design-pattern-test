@@ -1,41 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45c4b008-71be-47be-a965-18c454297210" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="ca5be552-2c24-4841-8d6c-c5e5f7c5a639" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite-Pattern1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite-Pattern1/src/main/java/com/test/composite/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite-Pattern1/src/main/java/com/test/composite/MenuComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite-Pattern1/src/main/java/com/test/composite/MenuItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite-Pattern1/src/main/java/com/test/composite/MenuTestDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite-Pattern1/src/main/java/com/test/composite/Waiter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite-Pattern2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite-Pattern2/src/main/java/com/test/composite/MenuTestDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite-Pattern2/src/main/java/com/test/composite/Waiter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite-Pattern2/src/main/java/com/test/composite/iterator/CompositeIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite-Pattern2/src/main/java/com/test/composite/iterator/NullIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite-Pattern2/src/main/java/com/test/composite/menu/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite-Pattern2/src/main/java/com/test/composite/menu/MenuComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composite-Pattern2/src/main/java/com/test/composite/menu/MenuItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/Proxy-Pattern5/target/" />
+    <ignored path="$PROJECT_DIR$/Proxy-Pattern4/target/" />
+    <ignored path="$PROJECT_DIR$/Proxy-Client/target/" />
+    <ignored path="$PROJECT_DIR$/Proxy-Pattern3/target/" />
+    <ignored path="$PROJECT_DIR$/Proxy-Pattern2/target/" />
+    <ignored path="$PROJECT_DIR$/Proxy-Pattern1/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/Composite-Pattern1/target/" />
-    <ignored path="$PROJECT_DIR$/Composite-Pattern2/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="90" />
@@ -49,95 +51,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Composite-Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proxy-Pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-pattern-test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Composite-Pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern-test" type="462c0819:PsiDirectoryNode" />
-              <item name="Composite-Pattern1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Composite-Pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern-test" type="462c0819:PsiDirectoryNode" />
-              <item name="Composite-Pattern1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Composite-Pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern-test" type="462c0819:PsiDirectoryNode" />
-              <item name="Composite-Pattern1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Composite-Pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern-test" type="462c0819:PsiDirectoryNode" />
-              <item name="Composite-Pattern1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Composite-Pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern-test" type="462c0819:PsiDirectoryNode" />
-              <item name="Composite-Pattern1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Composite-Pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern-test" type="462c0819:PsiDirectoryNode" />
-              <item name="Composite-Pattern2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Composite-Pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern-test" type="462c0819:PsiDirectoryNode" />
-              <item name="Composite-Pattern2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Composite-Pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern-test" type="462c0819:PsiDirectoryNode" />
-              <item name="Composite-Pattern2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Composite-Pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern-test" type="462c0819:PsiDirectoryNode" />
-              <item name="Composite-Pattern2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Composite-Pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern-test" type="462c0819:PsiDirectoryNode" />
-              <item name="Composite-Pattern2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555150760646" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -153,55 +84,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="MenuTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.composite.MenuTestDrive" />
-      <module name="Composite-Pattern1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.composite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MenuTestDrive" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="45c4b008-71be-47be-a965-18c454297210" name="Default Changelist" comment="" />
-      <created>1555150707805</created>
+      <changelist id="ca5be552-2c24-4841-8d6c-c5e5f7c5a639" name="Default Changelist" comment="" />
+      <created>1555151179161</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1555150707805</updated>
-      <workItem from="1555150709259" duration="76000" />
+      <updated>1555151179161</updated>
+      <workItem from="1555151180677" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76000" />
+    <option name="totallyTimeSpent" value="10000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -209,7 +118,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -227,22 +136,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Composite-Pattern1/src/main/java/com/test/composite/MenuTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
