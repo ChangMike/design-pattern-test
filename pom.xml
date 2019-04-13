@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.test.pattern</groupId>
-    <artifactId>Observer-Pattern</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>Composite-Pattern</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <modules>
-        <module>Observer-Pattern2</module>
-        <module>Observer-Pattern1</module>
-        <module>Observer-Pattern-JDK</module>
+        <module>Composite-Pattern1</module>
+        <module>Composite-Pattern2</module>
     </modules>
+
 
 </project>
