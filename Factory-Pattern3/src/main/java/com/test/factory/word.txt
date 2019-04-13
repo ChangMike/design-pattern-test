@@ -1,7 +1,0 @@
-Ingredient   原料
-Cheese       奶酪
-Clams        蛤蜊
-Dough        面团
-Pepperoni    意大利辣香肠
-Sauce        酱汁
-Veggies      素食
