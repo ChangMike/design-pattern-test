@@ -5,12 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.test.pattern</groupId>
-    <artifactId>Decorator-Pattern</artifactId>
+    <artifactId>adapter-pattern-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>Decorator-Pattern1</module>
-        <module>Decorator-Pattern2</module>
+        <module>adapter-pattern1</module>
+        <module>adapter-pattern2</module>
     </modules>
+
 </project>
