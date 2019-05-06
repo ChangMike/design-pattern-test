@@ -1,4 +1,10 @@
-package com.test.observer;
+package com.test.observer.impl;
+
+import com.test.observer.DisplayElement;
+import com.test.observer.Observer;
+import com.test.observer.Subject;
+import com.test.observer.WeatherData;
+
 /**
  * 气象统计布告板，实现观察者接口
  * Statistics，统计

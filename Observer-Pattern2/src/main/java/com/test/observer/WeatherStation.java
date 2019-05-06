@@ -1,5 +1,9 @@
 package com.test.observer;
 
+import com.test.observer.impl.CurrentConditionsDisplay;
+import com.test.observer.impl.ForecastDisplay;
+import com.test.observer.impl.StatisticsDisplay;
+
 public class WeatherStation {
     public static void main(String[] args) {
         // 创建一个发布者

@@ -1,5 +1,7 @@
 package com.test.observer;
 
+import org.testng.annotations.Test;
+
 public class WeatherData {
     // 温度
     private float temperatrue;
@@ -23,7 +25,12 @@ public class WeatherData {
         statisticsDisplay.update(temperatrue, humidity, pressure);
         forecastDisplay.update(temperatrue, humidity, pressure);
     }
-    // 调用上面的方法
+
+    @Test
+    public void myTest() {
+        setMeasurements(20, 10, 14);
+    }
+
     public void setMeasurements(float temperatrue, float humidity, float pressure) {
         this.temperatrue = temperatrue;
         this.humidity = humidity;
