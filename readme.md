@@ -19,11 +19,11 @@
 3. 策略模式
    - 封装变化-->面向接口-->组合-->解耦-->开放关闭
    
-   <details>
-   <summary>详细</summary>
-   
-   把可能发生变化的部分封装成算法族-->算法族面向接口编程-->组合-->解耦-->开放关闭
-   </details>
+      <details>
+      <summary>详细</summary>
+
+      把可能发生变化的部分封装成算法族-->算法族面向接口编程-->组合-->解耦-->开放关闭
+      </details>
    
 4. 举例   
 Spring的Resource接口和ResourcesLoader接口   
