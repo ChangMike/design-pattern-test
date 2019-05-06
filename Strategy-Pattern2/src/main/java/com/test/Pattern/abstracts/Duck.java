@@ -1,4 +1,4 @@
-package com.test.Pattern;
+package com.test.Pattern.abstracts;
 
 /**
  * 鸭子基类
@@ -8,7 +8,7 @@ public abstract class Duck {
 
     public abstract void display();
 
-    void swim() {
+    public void swim() {
         System.out.println("游泳......");
     }
 }

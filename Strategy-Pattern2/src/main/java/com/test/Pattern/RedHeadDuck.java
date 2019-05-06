@@ -1,5 +1,9 @@
 package com.test.Pattern;
 
+import com.test.Pattern.abstracts.Duck;
+import com.test.Pattern.abstracts.Flyable;
+import com.test.Pattern.abstracts.Quackable;
+
 public class RedHeadDuck extends Duck implements Flyable, Quackable {
     @Override
     public void display() {

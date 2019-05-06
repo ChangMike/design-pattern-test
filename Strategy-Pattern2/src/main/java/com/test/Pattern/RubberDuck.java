@@ -1,10 +1,13 @@
 package com.test.Pattern;
 
+import com.test.Pattern.abstracts.Duck;
+import com.test.Pattern.abstracts.Quackable;
+
 /**
  * 橡皮鸭类，不会飞但会叫
  */
 
-public class RubberDuck extends Duck implements Quackable{
+public class RubberDuck extends Duck implements Quackable {
     @Override
     public void display() {
         System.out.println("橡皮鸭");

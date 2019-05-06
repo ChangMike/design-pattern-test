@@ -1,5 +1,9 @@
 package com.test.Pattern;
 
+import com.test.Pattern.abstracts.Duck;
+import com.test.Pattern.abstracts.Flyable;
+import com.test.Pattern.abstracts.Quackable;
+
 /**
  * 野鸭类
  */

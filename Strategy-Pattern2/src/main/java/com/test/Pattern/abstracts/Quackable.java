@@ -1,4 +1,4 @@
-package com.test.Pattern;
+package com.test.Pattern.abstracts;
 
 public interface Quackable {
     void quack();

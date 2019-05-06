@@ -1,4 +1,9 @@
-package com.test.Pattern;
+package com.test.Pattern.driver;
+
+import com.test.Pattern.DecoyDuck;
+import com.test.Pattern.MallardDuck;
+import com.test.Pattern.RedHeadDuck;
+import com.test.Pattern.RubberDuck;
 
 public class MyTest {
     public static void main(String[] args) {

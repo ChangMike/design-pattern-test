@@ -1,5 +1,7 @@
 package com.test.Pattern;
 
+import com.test.Pattern.abstracts.Duck;
+
 /**
  * 诱饵鸭，木头假鸭，不会飞也不会叫
  */
