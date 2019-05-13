@@ -3,10 +3,13 @@
 ---
 Factory-Pattern1——工厂方法模式   
 PizzaStore的createPizza()是工厂方法，由子类实现
+
 ---
 Factory-Pattern2——抽象工厂模式   
 PizzaIngredientFactory是工厂接口，它的两个实现类负责生产不同类型的产品
+
 ---
+
 ##### 工厂模式之设计原则  
 1. 封装变化，把容易变化的部分封装到一个地方统一管理。 
 2. 依赖倒置原则——依赖抽象，不依赖具体
