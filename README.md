@@ -6,7 +6,7 @@
     statisticsDisplay.update(temperatrue, humidity, pressure);
     forecastDisplay.update(temperatrue, humidity, pressure);
 ```
-- 封装变化，面向接口，组合，解耦，开放关闭
+- 封装变化，面向接口，组合，依赖倒置，解耦，开放关闭
     <details>
     <summary>详细</summary>
 
