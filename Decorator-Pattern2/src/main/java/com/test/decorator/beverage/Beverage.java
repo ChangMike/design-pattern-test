@@ -1,4 +1,4 @@
-package com.test.decorator;
+package com.test.decorator.beverage;
 /**
  * Beverage，饮料类，基类
  */

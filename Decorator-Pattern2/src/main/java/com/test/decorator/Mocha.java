@@ -1,4 +1,7 @@
 package com.test.decorator;
+
+import com.test.decorator.beverage.Beverage;
+
 /**
  * mocha，摩卡，具体装饰者类
  */

@@ -1,5 +1,9 @@
 package com.test.decorator;
 
+import com.test.decorator.beverage.Beverage;
+import com.test.decorator.beverage.Espresso;
+import com.test.decorator.beverage.HouseBlend;
+
 public class MyTest {
     public static void main(String[] args) {
         Beverage espresso = new Espresso();

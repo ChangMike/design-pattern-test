@@ -1,4 +1,6 @@
-package com.test.decorator;
+package com.test.decorator.beverage;
+
+import com.test.decorator.beverage.Beverage;
 
 /**
  * 黑咖啡类

@@ -1,5 +1,7 @@
 package com.test.decorator;
 
+import com.test.decorator.beverage.Beverage;
+
 /**
  * soy，豆奶类，具体装饰者类
  */
